@@ -1,1 +1,1 @@
-This is a CodeBerrySchool project site . 
+This is a CodeBerrySchool site project . 
